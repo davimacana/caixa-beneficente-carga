@@ -1,0 +1,2 @@
+cd C:\Program Files\PostgreSQL\15\bin
+pg_dump --dbname=caixa-beneficente --username=postgres --schema-only --file=C:\Desenvolvimento\Projetos\caixa-beneficente\carga-dados\create-tables.sql
